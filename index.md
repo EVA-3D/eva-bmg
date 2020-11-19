@@ -8,6 +8,8 @@ badges:
 
 ### Links
 
+{{ eva_download_button("bmg") }}
+
 {{ eva_link("bmg") }}
 
 {{ onshape_link("bmg") }}
