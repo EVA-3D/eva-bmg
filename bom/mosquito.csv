@@ -1,9 +1,9 @@
 Item No.,Quantity,Name,Material
 1,1,bottom_mgn12_short_duct,PETG
-2,21,"M3  Hex nut ",- None -
+2,18,"M3  Hex nut ",- None -
 3,2,DIN 912 M3 12 mm,- None -
-4,4,DIN 912 M3 35 mm,- None -
-5,1,Duct v2 Straight Risen,PETG
+4,2,DIN 912 M3 35 mm,- None -
+5,1,Duct v2.1 Straight,PETG
 6,1,back_corexy,PETG
 7,1,tension_slider_9mm_belt_M5,PETG
 8,1,tension_slider_9mm_belt_M5_mirror,PETG
@@ -12,14 +12,17 @@ Item No.,Quantity,Name,Material
 11,2,DIN 912 M5 45 mm,- None -
 12,2,M5  Hex nut Nyloc,- None -
 13,1,top_endstop_plug_mgn12,PETG
-14,1,top_titan_mgn12,PETG
-15,5,DIN 912 M3 8 mm,- None -
-16,6,DIN 912 M3 10 mm,- None -
-17,2,face_belt_grabber,PETG
-18,2,DIN 912 M2.5 12 mm,- None -
-19,1,mosquito_25mm_fan,PETG
-20,1,mosquito_face,PETG
-21,1,mosquito,- None -
-22,1,25mm fan,- None -
-23,1,mosquito_shroud,- None -
-24,1,PTFE 45.6mm,- None -
+14,1,top_bmg_mgn12,PETG
+15,5,"M3  Hex nut ",- None -
+16,1,DIN 912 M3 8 mm,- None -
+17,2,DIN 912 M3 35 mm,- None -
+18,4,DIN 912 M3 10 mm,- None -
+19,2,face_belt_grabber,PETG
+20,2,DIN 912 M2.5 12 mm,- None -
+21,4,DIN 912 M3 8 mm,- None -
+22,1,mosquito_25mm_fan,PETG
+23,1,mosquito_face,PETG
+24,1,25mm fan,- None -
+25,2,DIN 912 M3 10 mm,- None -
+26,1,mosquito_shroud,PETG
+27,1,PTFE 45.6mm,- None -
