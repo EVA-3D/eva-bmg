@@ -25,4 +25,5 @@ Item,Quantity,Name,Material
 24,1,universal_face,PETG
 25,2,face_belt_grabber,PETG
 26,1,dragon_face,PETG
-27,1,shroud,PETG
+27,1,v6_support,PETG
+28,1,shroud,PETG
