@@ -4,7 +4,7 @@ badges:
 ---
 # BMG
 
-![preview](assets/__ALL__.png)
+![preview](assets/BMG.__ALL__.png)
 
 This one is one of my favourites, like the Titan one the filament path is not super short but that's an exchange for the modularity EVA provides, also it does not seem to make much difference. EVA 2 / BMG is compatible with both the standard BMG and BMG-M for all hotend options.  
 I'm personally using this EVA drive variant.
@@ -16,6 +16,13 @@ I'm personally using this EVA drive variant.
     The part is available in the Mosquito BOM bellow.
 
     ![](assets/bmg-m.png)
+
+??? notice "MGN15"
+
+    To mount EVA / BMG on a MGN15C carriage you will need a few different than the default parts and a few longer screws. The BOM replaces **only a few parts and screws** from the default BOM - for MGN15C you need to look at both - **what follows is not the full MGN15C BOM**.
+
+{{ bom("drives/bmg/bom/BOM_BMG.MGN15.csv", 4) }}
+
 
 ### Links
 
@@ -31,16 +38,16 @@ I'm personally using this EVA drive variant.
 
     This BOM assumes a regular BMG, for BMG-M the `bmg-m_pfte_adapter` part and a shorter PTFE tube is needed.
 
-{{ bom("drives/bmg/bom/v6.csv", 4) }}
+{{ bom("drives/bmg/bom/BOM_[Assembly]_V6.csv", 4) }}
 
 === "Mosquito"
 
     This BOM assumes a BMG-M, for a regular BMG you don't need the `bmg-m_pfte_adapter` part but will need a longer PTFE tube.
 
-{{ bom("drives/bmg/bom/mosquito.csv", 4) }}
+{{ bom("drives/bmg/bom/BOM_[Assembly]_mosquito.csv", 4) }}
 
 === "Dragon"
 
     This BOM assumes a regular BMG, for BMG-M the `bmg-m_pfte_adapter` part and a shorter PTFE tube is needed.
 
-{{ bom("drives/bmg/bom/dragon.csv", 4) }}
+{{ bom("drives/bmg/bom/BOM_[Assembly]_dragon.csv", 4) }}

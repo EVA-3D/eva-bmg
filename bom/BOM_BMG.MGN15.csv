@@ -1,0 +1,12 @@
+Item,Quantity,Name,Material
+1,4,DIN 912 M3 40 mm,Hardened Alloy Steel
+2,4,DIN 912 M3 10 mm,Hardened Alloy Steel
+3,5,"M3  Hex nut ",Hardened Alloy Steel
+4,1,top_bmg_mgn15,PETG
+5,1,top_endstop_plug_mgn15,PETG
+6,1,DIN 912 M3 6 mm,Hardened Alloy Steel
+7,1,BMG_Extruder,"Nylon "
+8,3,DIN 912 M3 35 mm,Hardened Alloy Steel
+9,1,Duct v2.1 Straight,PETG
+10,1,bottom_mgn15,PETG
+11,2,DIN 912 M3 20 mm,Hardened Alloy Steel
