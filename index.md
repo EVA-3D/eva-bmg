@@ -48,6 +48,6 @@ I'm personally using this EVA drive variant.
 
 === "Dragon"
 
-    This BOM assumes a regular BMG, for BMG-M the `bmg-m_pfte_adapter` part and a shorter PTFE tube is needed.
+    This BOM assumes a regular BMG, for BMG-M the `bmg-m_pfte_adapter` part and a shorter PTFE tube around 28.5mm is needed).
 
 {{ bom("drives/bmg/bom/BOM_[Assembly]_dragon.csv", 4) }}
