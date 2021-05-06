@@ -66,6 +66,3 @@ I'm personally using this EVA drive variant.
 {{ download_button }}
 {{ cad_link }}
 
-{{ repo_url }}
-
-{{ cad_url }}
